@@ -1,0 +1,17 @@
+.app {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+select {
+  margin: 10px;
+  padding: 8px 12px;
+  font-size: 16px;
+}
+
+.output {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
