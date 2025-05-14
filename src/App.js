@@ -48,7 +48,7 @@ function App() {
       setCities([]);
       setSelectedCity("");
     }
-  }, [selectedState]);
+  }, [selectedCountry, selectedState]);
 
   return (
     <div className="app">
